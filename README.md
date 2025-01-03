@@ -39,9 +39,10 @@ Watermark and Upload Photos to FB is a Python-based project that bulk processes 
 
 2. Customize text properties and watermark base in `config.json` as needed.
 
-3. Run the Script
+3. Run the Scripts
     ```sh
-    ./photos.sh
+    python3 main.py
+   python3 upload.py
     ```
 
 ## Script Details
