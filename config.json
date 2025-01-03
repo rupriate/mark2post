@@ -1,0 +1,26 @@
+{
+  "watermark_base": "watermark/watermark2.png",
+  "text_properties": {
+    "main_text": {
+      "color": "#00ADEF",
+      "x_position": 605,
+      "y_position": 1115,
+      "font_size": 27,
+      "font_family": "/Users/rusirasathnindu/Library/Fonts/GothamRounded-Medium.otf"
+    },
+    "secondary_text": {
+      "color": "#eb026c",
+      "x_position": 605,
+      "y_position": 1145,
+      "font_size": 16,
+      "font_family": "/Users/rusirasathnindu/Library/Fonts/GothamRounded-Medium.otf"
+    },
+    "small_text": {
+      "color": "#8c8c8c",
+      "x_position": 605,
+      "y_position": 1170,
+      "font_size": 16,
+      "font_family": "/Users/rusirasathnindu/Library/Fonts/GothamRounded-Medium.otf"
+    }
+  }
+}
