@@ -22,7 +22,7 @@ Watermark and Upload Photos to FB is a Python-based project that bulk processes 
 1. Clone the repository:
     ```sh
     git clone https://github.com/rupriate/watermark-and-upload-photos-fb.git
-    cd early-birds-photo-uploader
+    cd watermark-and-upload-photos-fb
     ```
 
 ## Usage
