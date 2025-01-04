@@ -1,4 +1,4 @@
-# Watermark and Upload Photos to FB
+# Mark2Post - Watermark and Upload Photos to FB
 
 Watermark and Upload Photos to FB is a Python-based project that bulk processes images by adding watermarks and then uploads them to Facebook. The project is designed to work with a specific folder structure and uses the Facebook Graph API for uploading images.
 
